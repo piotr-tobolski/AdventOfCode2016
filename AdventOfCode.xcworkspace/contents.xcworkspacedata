@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:BTree/BTree.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:CryptoSwift/CryptoSwift.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:AdventOfCodeHelpers/AdventOfCodeHelpers.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Day1.playground">
+   </FileRef>
+   <FileRef
+      location = "group:Day2.playground">
+   </FileRef>
+   <FileRef
+      location = "group:Day3.playground">
+   </FileRef>
+   <FileRef
+      location = "group:Day4.playground">
+   </FileRef>
+   <FileRef
+      location = "group:Day5/Day5.playground">
+   </FileRef>
+   <FileRef
+      location = "group:Day5/Day5C/Day5.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Day6.playground">
+   </FileRef>
+   <FileRef
+      location = "group:Day7.playground">
+   </FileRef>
+   <FileRef
+      location = "group:Day8.playground">
+   </FileRef>
+   <FileRef
+      location = "group:Day9.playground">
+   </FileRef>
+   <FileRef
+      location = "group:Day10.playground">
+   </FileRef>
+   <FileRef
+      location = "group:Day11/Day11.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Day12.playground">
+   </FileRef>
+   <FileRef
+      location = "group:Day13.playground">
+   </FileRef>
+   <FileRef
+      location = "group:Day14.playground">
+   </FileRef>
+   <FileRef
+      location = "group:Day15.playground">
+   </FileRef>
+   <FileRef
+      location = "group:Day16.playground">
+   </FileRef>
+   <FileRef
+      location = "group:Day17.playground">
+   </FileRef>
+   <FileRef
+      location = "group:Day18.playground">
+   </FileRef>
+   <FileRef
+      location = "group:Day19.playground">
+   </FileRef>
+   <FileRef
+      location = "group:Day20.playground">
+   </FileRef>
+   <FileRef
+      location = "group:Day21.playground">
+   </FileRef>
+   <FileRef
+      location = "group:Day22.playground">
+   </FileRef>
+   <FileRef
+      location = "group:Day23.playground">
+   </FileRef>
+   <FileRef
+      location = "group:Day24.playground">
+   </FileRef>
+   <FileRef
+      location = "group:Day25.playground">
+   </FileRef>
+</Workspace>
